@@ -1,0 +1,14 @@
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.exe
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.deps.json
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.runtimeconfig.json
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfoInputs.cache
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfo.cs
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\refint\EjercicioExcepciones.dll
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.genruntimeconfig.cache
+C:\Users\cespinozab\Documents\GitHub\Repositorios\Examen\EjercicioExcepciones\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\ref\EjercicioExcepciones.dll
